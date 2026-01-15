@@ -1,0 +1,7 @@
+{
+  "name": "CareCompanion: Prescription & Medicine Tracker",
+  "description": "A loving and intuitive app to manage prescription schedules. Upload prescriptions, let AI extract schedules, and track daily intake with a beautiful attendance-style grid.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
